@@ -9,3 +9,7 @@ git switch main
 git status 
 
 ## see updates about the current branch
+
+git log
+
+## see log for current commits
