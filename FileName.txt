@@ -1,4 +1,11 @@
 git add
+
+## adds the file to be committed
+
 git switch main
 
 ## change to main branch
+
+git status 
+
+## see updates about the current branch
